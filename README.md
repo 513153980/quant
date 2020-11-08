@@ -4,6 +4,10 @@
 投资有风险，任何时候不要忘记风险。  
 有啥问题可以上[NoProblems](https://www.noproblems.cn/user/login?otherCode=7THW6G)，关注“流逝量化”并向我提问。  
 
+## 2020-11-08   账户：$4993.06
+开始出现回调，坚持继续持仓，还没到规则的趋势结束。    
+<img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-08.1.jpg" width="300px"><img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-08.2.jpg" width="300px">  
+
 ## 2020-11-07   账户：$5814.33
 持得住，让利润奔跑。加油！  
 <img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-07.1.jpg" width="300px"><img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-07.2.jpg" width="300px">  
