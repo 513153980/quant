@@ -4,7 +4,9 @@
 投资有风险，任何时候不要忘记风险。  
 有啥问题可以上[NoProblems](https://www.noproblems.cn/user/login?otherCode=7THW6G)，关注“流逝量化”并向我提问。  
 
-## 2020-11-09   账户：$5634.11  持仓盈亏：$4099.80
+## 2020-11-09   
+### 账户：$5634.11  
+### 持仓盈亏：$4099.80
 牛市持不住，熊市不割肉。这句话是多少人真实情况的写照。加油！我的兄弟们！      
 <img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-09.1.jpg" width="300px"><img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-09.2.jpg" width="300px">  
 
