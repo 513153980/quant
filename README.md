@@ -10,7 +10,7 @@
 ### 持仓盈亏：$3846.30    
 一年五倍者如过江之鲫、五年一倍者却寥若辰星。  
 想看我怎么爆仓的敬请关注我。      
-<img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-09.1.jpg" width="300px"><img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-09.2.jpg" width="300px">  
+<img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-10.1.jpg" width="300px"><img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-10.2.jpg" width="300px">  
 
 
 ## 2020-11-09   
