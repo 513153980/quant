@@ -4,6 +4,13 @@
 投资有风险，任何时候不要忘记风险。  
 有啥问题可以上[NoProblems](https://www.noproblems.cn/user/login?otherCode=7THW6G)，关注“流逝量化”并向我提问。  
 
+## 2020-11-11   
+### 初始账户：$1528.40  
+### 当前账户：$5518.90  
+### 持仓盈亏：$3998.77    
+大虾们，今天要不要止盈呢？       
+<img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-11.1.jpg" width="300px"><img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-11.2.jpg" width="300px"> 
+
 ## 2020-11-10   
 ### 初始账户：$1528.40  
 ### 当前账户：$5374.70  
