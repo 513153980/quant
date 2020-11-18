@@ -4,6 +4,13 @@
 投资有风险，任何时候不要忘记风险。  
 有啥问题可以上[NoProblems](https://www.noproblems.cn/user/login?otherCode=7THW6G)，关注“流逝量化”并向我提问。  
 
+## 2020-11-18   
+账户翻了几倍，这一波的持仓收益快要超过7000%，实在是想要落袋为安呢  
+初始账户：$1528.40  
+当前账户：$7699.09  
+持仓盈亏：$6196.09  
+<img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-18.1.jpg" width="300px"><img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-18.2.jpg" width="300px"> 
+
 ## 2020-11-17   
 准备迎接回调，结果又创新高，加油！  
 初始账户：$1528.40  
