@@ -4,6 +4,12 @@
 投资有风险，任何时候不要忘记风险。  
 有啥问题可以上[NoProblems](https://www.noproblems.cn/user/login?otherCode=7THW6G)，关注“流逝量化”并向我提问。  
 
+## 2020-11-23   
+初始账户：$1528.40  
+当前账户：$8355.01  
+持仓盈亏：$6906.68  
+<img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-23.1.jpg" width="300px"><img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-23.2.jpg" width="300px">  
+
 ## 2020-11-22   
 其实在我看来真突破还是假突破只有事后才知道，过滤掉突破里面必定有真突破，而且真突破很少，万一漏掉一个会后悔一辈子，所以我是宁可被止损也绝不错过。  
 初始账户：$1528.40  
