@@ -4,6 +4,14 @@
 投资有风险，任何时候不要忘记风险。  
 有啥问题可以上[NoProblems](https://www.noproblems.cn/user/login?otherCode=7THW6G)，关注“流逝量化”并向我提问。  
 
+## 2020-11-29   
+盈利提现提的有点多了，爆仓点提到了$14594.4，不过问题应该不大，我的止损点在这个价之上。  
+初始账户：$1528.40  
+当前账户：$2407.51  
+盈利提现：$5000  
+持仓盈亏：$4737.58  
+<img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-29.1.jpg" width="300px"><img src="https://raw.githubusercontent.com/513153980/quant/main/image/pic/2020-11-29.2.jpg" width="300px">  
+
 ## 2020-11-28   
 初始账户：$1528.40  
 当前账户：$1897.49  
